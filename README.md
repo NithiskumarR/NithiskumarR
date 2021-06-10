@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Nithiskumar R
-- 😍 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 👋  Hi, I’m 
+- > Nithiskumar R
+- 💻  I’m interested in Web Development
+- 📚  I'm currently learning React.js
