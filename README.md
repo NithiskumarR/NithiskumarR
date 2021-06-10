@@ -1,4 +1,5 @@
 - 👋  Hi, I’m 
-- > Nithiskumar R
-- 💻  I’m interested in Web Development
-- 📚  I'm currently learning React.js
+
+   > **Nithiskumar R**
+- 💻  Interested in **Web Development**
+- 📚  Currently learning **React.js**
